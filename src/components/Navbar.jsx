@@ -30,7 +30,7 @@ export default function Navbar({ dark, toggleDark }) {
       transition: "background 0.35s, border-color 0.35s",
     }}>
       {/* Logo */}
-      <a href="/" style={{ textDecoration: "none" }}>
+      
         <span style={{
           fontFamily: "'Space Grotesk', sans-serif", fontWeight: 700,
           fontSize: "1.15rem", letterSpacing: "-0.02em",
@@ -40,7 +40,7 @@ export default function Navbar({ dark, toggleDark }) {
           Clem
           <span style={{ color: "#7C3AED" }}>/&gt;</span>
         </span>
-      </a>
+    
 
       {/* Right side */}
       <div className="nav-links" style={{ display: "flex", alignItems: "center", gap: "2rem" }}>
