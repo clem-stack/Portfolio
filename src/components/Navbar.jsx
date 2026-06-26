@@ -30,7 +30,7 @@ export default function Navbar({ dark, toggleDark }) {
       transition: "background 0.35s, border-color 0.35s",
     }}>
       {/* Logo */}
-      <a href="#" style={{ textDecoration: "none" }}>
+      <a href="/" style={{ textDecoration: "none" }}>
         <span style={{
           fontFamily: "'Space Grotesk', sans-serif", fontWeight: 700,
           fontSize: "1.15rem", letterSpacing: "-0.02em",
