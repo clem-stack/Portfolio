@@ -1,0 +1,5 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="680" rx="28" fill="#0d1117" />
+  <rect x="40" y="40" width="1120" height="600" rx="24" fill="#111827" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#F59E0B" font-family="Inter, sans-serif" font-size="64">The Kargo Delivery</text>
+</svg>
